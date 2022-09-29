@@ -1,7 +1,7 @@
 /**
  * Provides calculation methods for Lucas Sequence.
  * 
- * @author uumkp
+ * @author Emir Yuksel
  * @version 1.0
  */
 
