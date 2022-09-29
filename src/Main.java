@@ -2,7 +2,7 @@
  * This program calculates a lucas sequence recursive with variables given with
  * command line. As the output it prints all the calculated elements.
  * 
- * @author uumkp
+ * @author Emir Yuksel
  * @version 1.0
  */
 
